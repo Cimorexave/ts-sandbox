@@ -1,0 +1,15 @@
+{
+  "name": "ts-sandbox",
+  "version": "1.0.0",
+  "description": "sandbox for playing with typescript",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.ts"
+  },
+  "author": "Sina Sadeqi",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
